@@ -18,6 +18,11 @@
 <p>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saharshema&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
 
+### Most Languages
+
+<p>
+<img alt="sahar shema's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharshema&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="eyalrainitz" /> </p>
+
 
 
 
