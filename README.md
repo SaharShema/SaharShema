@@ -1,6 +1,5 @@
 
-# Hey, I'm Sahar Shema! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://www.linkedin.com/in/saharshema"  target="_blank"> <img align="right" alt="Sahar's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-
+# Hey, I'm Sahar Shema! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://www.linkedin.com/in/saharshema"  target="_blank"> <img align="right" alt="Sahar's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </br>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -21,7 +20,7 @@
 ### Most Languages
 
 <p>
-<img alt="sahar shema's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharshema&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="eyalrainitz" /> </p>
+<img alt="sahar shema's Most Used langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharshema&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="saharshema" /> </p>
 
 
 
